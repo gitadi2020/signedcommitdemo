@@ -14,5 +14,6 @@
 # 2nd another commit
 
 #ok commit
-#ok 1
+#ok 1push
 #ok 2
+#ok 4
