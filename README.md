@@ -15,5 +15,5 @@
 
 #ok commit
 #ok 1push
-#ok 2
-#ok 4
+#ok 5
+#ok 4git 
