@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_4kHA0V0zEe-tQ_cVhoXWyw" label="rempoteprojdk17" description="" language="java" technicalLabel="REMPOTEPROJDK17" author="_4kHA0l0zEe-tQ_cVhoXWyw" productVersion="Talend Data Fabric-8.0.1.20240718_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/gitadi2020/signedcommitdemo.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
+    <migrationTask xmi:id="_4lCN4F0zEe-tQ_cVhoXWyw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_4kHA0l0zEe-tQ_cVhoXWyw" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_6fmdIF0zEe-tQ_cVhoXWyw" login="dev@company.com" firstName="dev" lastName="dev" type="DI" additionnalData="{}"/>
+</xmi:XMI>
