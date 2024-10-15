@@ -165,6 +165,11 @@
     "version" : "7.4.1",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.camel.designer.migration.UpdateBeansDefaultLibrariesMigrationTask.8.0.1-R2024-09",
+    "breaks" : "7.3.0",
+    "version" : "7.4.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.camel.designer.migration.UpdateBeansLibrariesMigrationTask.7.3.1",
     "breaks" : "7.3.0",
     "version" : "7.3.1",
@@ -173,6 +178,11 @@
     "id" : "org.talend.camel.designer.migration.UpdateBeansPackageReplaceMigrationTask.8.0.1-R2023-07",
     "breaks" : "7.3.0",
     "version" : "7.4.1",
+    "status" : "noimpact"
+  }, {
+    "id" : "org.talend.camel.designer.migration.UpdateBuildTypeForSpringBootMSMigrationTask",
+    "breaks" : "7.3.1",
+    "version" : "8.0.1",
     "status" : "noimpact"
   }, {
     "id" : "org.talend.camel.designer.migration.UpdateCHTTPUriMigrationTask",
@@ -556,6 +566,11 @@
     "status" : "noimpact"
   }, {
     "id" : "org.talend.designer.spark.repository.migration.UpdateOracleDBVersion",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
+    "id" : "org.talend.designer.spark.repository.migration.UpdateRemovedSparkKubernetes",
     "breaks" : "8.0.1",
     "version" : "8.0.1",
     "status" : "noimpact"
@@ -1328,6 +1343,11 @@
     "id" : "org.talend.repository.model.migration.ChangeELTPostgresDbVersionMigrationTask",
     "breaks" : "7.4.0",
     "version" : "7.4.1",
+    "status" : "noimpact"
+  }, {
+    "id" : "org.talend.repository.model.migration.ChangeExtendId2BatchMigrationTask",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
     "status" : "noimpact"
   }, {
     "id" : "org.talend.repository.model.migration.ChangeExtendInsertDefaultValueMigrationTask",
